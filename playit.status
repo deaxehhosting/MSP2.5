@@ -1,0 +1,687 @@
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mGot Error
+MSG: Failed to setup tunnel client
+Error: RequestError(TooManyRequests)
+[2J8[0mtunnel running[2J8[0mplayit (v0.15.23): 1727052475291 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052478360 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727052493495 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052496845 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052499922 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727052516041 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052519120 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052522194 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052525262 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727052540592 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052543787 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052546913 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052550011 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727052565108 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052568173 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052571255 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052574319 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727052589423 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052592497 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052595563 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727052610676 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052613762 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052616833 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727052631929 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052635010 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052638094 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727052653277 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052656350 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052659745 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727052675565 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052678637 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052681768 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727052697551 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052700621 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052703696 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727052718805 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052721901 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052724966 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052728036 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727052743177 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052746247 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727052761349 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052764422 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052767496 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727052782592 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052785655 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052788738 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052791806 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727052806916 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052810011 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052813088 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052816157 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052819225 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727052834311 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052837375 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052842853 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052845925 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052849000 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052852062 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727052867223 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052870293 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052873838 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052876900 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052879985 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052883055 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727052898152 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052901212 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052904274 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052907342 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052910415 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052913495 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052916560 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052919768 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052922826 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052925887 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052928949 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052932019 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052935093 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052938153 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052941214 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052944281 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727052959395 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052962464 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052965528 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727052980648 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052983714 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727052986784 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727053001897 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727053004971 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727053020080 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727053023170 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727053026252 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727053041358 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727053044445 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727053047559 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727053062681 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727053065741 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727053068821 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727053071901 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727053087007 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727053090074 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+physical-essay.gl.at.ply.gg:1288 => 127.0.0.1:1288 (minecraft-bedrock)
+agents-reverse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
